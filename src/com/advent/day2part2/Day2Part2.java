@@ -1,11 +1,11 @@
-package com.advent.day2part1;
+package com.advent.day2part2;
 
-import com.advent.day2part1.parser.MovementDataParser;
-import com.advent.day2part1.reader.MovementReader;
+import com.advent.day2part2.parser.MovementDataParser;
+import com.advent.day2part2.reader.MovementReader;
 
 import java.io.InputStream;
 
-public class Day1Part2 {
+public class Day2Part2 {
 
     private static MovementDataParser movementDataParser;
 
