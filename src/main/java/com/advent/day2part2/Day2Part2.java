@@ -1,7 +1,7 @@
 package com.advent.day2part2;
 
-import com.advent.day2part2.parser.MovementDataParser;
 import com.advent.day2part2.reader.MovementReader;
+import com.advent.day2part2.parser.MovementDataParser;
 
 import java.io.InputStream;
 
